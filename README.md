@@ -54,4 +54,4 @@ MediGuide is a user-friendly Chrome extension designed to assist users in quickl
 
 1. Clone or download the repository:
    ```bash
-   git clone 
+   git clone https://github.com/samruddhiupatil/MediGuide-Gemini-Nano-Chrome-extension.git
